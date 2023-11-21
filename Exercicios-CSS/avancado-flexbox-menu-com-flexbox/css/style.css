@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 45px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo h1 {
+    font-weight: 800;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu li a {
+    padding: 10px 5px;
+    margin-left: 15px;
+    transition: 0.3s ease-in-out;
+}
+
+.menu li a:hover {
+    background-color: #5BC241;
+    color: white;  
+}
+
+.menu .botao { 
+    background-color: #5BC241;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left: 30px;
+}

@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+h3 {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.imagens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.imagem {
+    width: 335px;
+    height: 431px;
+    position: relative;
+}
+
+.imagens img {
+    width:100%;
+
+}
+
+.imagens .informacao {
+    color: white;
+    position: absolute;
+    bottom: 50px;
+    left: 20px
+}
