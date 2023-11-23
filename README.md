@@ -1,16 +1,13 @@
 # Exercícios front end do curso DevQuest
 
 Aqui estão todos os exercícios do curso DevQuest.
+<p>Os exercícios estão divididos em dois modulos, sendo o primeiro dedicado a HTML e CSS básico e o segundo para CSS avançado. 
 
 ## Repositórios dos exercícios
 
 <ul>
-    <li>HTML e CSS básico</li>
-    <li>CSS avançado - Figma</li>
-    <li>CSS avançado - Cartão de Perfil</li>
-    <li>CSS avançado - App Gerador de Conselhos</li>
-    <li>CSS avançado - Menu com Flexbox</li>
-    <li>CSS avançado - Lista de Imagens</li>
+    <li>Exercícios de HTML e CSS básico</li>
+    <li>Exercícios de CSS avançado</li>
 </ul>
 
 ## Linguagens usadas
