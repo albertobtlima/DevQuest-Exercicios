@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.bloco {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.bloco:hover {
+    cursor: pointer;
+}
+
+.azul {
+    background-color: blue;
+}
