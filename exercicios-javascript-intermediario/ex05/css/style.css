@@ -64,7 +64,7 @@
 .conteudo {
     background-color: #fff;
     width: 620px;
-    margin-left: 15em;
+    margin-left: 180px;
     padding: 65px 60px;
     border-radius: 10px;
 }
@@ -72,7 +72,7 @@
 .conteudo .titulo {
     font-size: 5rem;
     font-weight: 400;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
 }
 
 .conteudo .texto {
@@ -84,4 +84,20 @@
 .conteudo .botao {
     font-size: 3rem;
     font-weight: 700;
+}
+
+.botao.rosa {
+    color: #C50000;
+}
+
+.botao.verde {
+    color: #D9DD10;
+}
+
+.botao.laranja {
+    color: #A63A17;
+}
+
+.botao.azul {
+    color: #10ACDD;
 }
